@@ -1,1 +1,20 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/OyznkcGd5xxXad5Dh0sB/
+---
 
+# 一、基本資訊
+
+* &#x20;基本資訊：&#x20;
+  1. 負責 PM：Seven
+  2. 參與人: \[Design] \[前端] \[後端] \[APP]&#x20;
+  3. 啟動日期：
+  4. 預計上線日期：（開始撰寫PRD時填寫）&#x20;
+  5. 實際上線日期：（完成後填寫，如果有分階段上線，就自行分點說明）&#x20;
+  6. 文件最後更新時間
+* 相關連結：&#x20;
+  1. Asana
+  2. Redmine 母票：
+  3. Figm
+  4. Slack 頻道：（專案啟動時，同步建立）
