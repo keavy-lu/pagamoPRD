@@ -1,0 +1,11 @@
+# 一、基本資訊
+
+
+
+1. &#x20;基本資訊：&#x20;
+   1. 負責 PM：Miles
+   2. 開發人員：（Design, 前端, 後端, App 等）&#x20;
+   3. 啟動日期：10/26&#x20;
+2. Redmine 母票：[https://redmine.bonio.com.tw/issues/44085](https://redmine.bonio.com.tw/issues/44085)
+   1. 寫 PRD 時可先建立連結，再陸續把母票內容完成
+   2. 注意 Asana/Figma/Slack 等平台資訊都要放在 redmine 票上
