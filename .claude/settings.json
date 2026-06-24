@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__d221cf8b-b76f-42e6-8112-faedb8cc0376__notion-update-page",
+      "mcp__d221cf8b-b76f-42e6-8112-faedb8cc0376__notion-create-pages",
+      "mcp__d221cf8b-b76f-42e6-8112-faedb8cc0376__notion-fetch",
+      "mcp__d221cf8b-b76f-42e6-8112-faedb8cc0376__notion-search",
+      "mcp__d221cf8b-b76f-42e6-8112-faedb8cc0376__notion-query-database-view",
+      "mcp__d221cf8b-b76f-42e6-8112-faedb8cc0376__notion-query-data-sources"
+    ]
+  }
+}
